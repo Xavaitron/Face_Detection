@@ -47,7 +47,6 @@ Install dependencies:
 pip install dlib opencv-python numpy 
 ```
 
-
 ## Usage
 
 1. Ensure `shape_predictor_68_face_landmarks.dat` is present in the repository.
@@ -56,7 +55,6 @@ pip install dlib opencv-python numpy
 ```sh
 python Eye_symetrie.py
 ```
-
 
 3. The script will process the input image, perform landmark detection, compute symmetry, and save or display the annotated result.
 
